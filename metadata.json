@@ -1,0 +1,9 @@
+{
+  "name": "Copy of SmartEd",
+  "description": "SmartEd is a learning platform that connects thousands of learners worldwide. Join to get personalized study tools and track your progress.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ],
+  "prompt": ""
+}
